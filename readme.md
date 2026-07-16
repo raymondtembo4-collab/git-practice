@@ -1,1 +1,1 @@
-Hello my first Git project
+This is my practice repo. I understand git add, commit, and push now.
